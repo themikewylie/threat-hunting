@@ -1,0 +1,41 @@
+GPT-4.1,Grok 3,Gemini 2.5,Perplexity Sonar,Microsoft Copilot,Claude Sonnet 4
+SolarWinds RMM,AnyDesk,AnyDesk,TeamViewer,AnyDesk,ConnectWise Automate
+NinjaOne,Atera,Atera,VNC (Virtual Network Computing),Atera Agent,Kaseya VSA
+ConnectWise Automate,Splashtop,ConnectWise ScreenConnect,mRemoteNG,MeshAgent,N-able N-central
+Datto RMM,NetSupport Manager,Splashtop,AnyDesk,NetSupport Manager,Datto RMM
+Atera,Remote Utilities,TeamViewer,ScreenConnect,QuickAssist,SolarWinds RMM
+Kaseya VSA,ScreenConnect,Kaseya VSA,NinjaOne,ScreenConnect,Atera
+ManageEngine RMM Central,TeamViewer,N-able N-sight RMM,Atera,Splashtop,NinjaOne (formerly NinjaRMM)
+N-able N-sight,SolarWinds RMM,Datto RMM,LogMeIn Resolve,TeamViewer,ManageEngine Desktop Central
+Pulseway,Kaseya VSA,NinjaOne (formerly NinjaRMM),Action1,Fleetdeck,Syncro
+Syncro,ConnectWise Automate,Syncro,Datto RMM,SimpleHelp,TeamViewer Business
+Zabbix,NinjaRMM,Action1,Pulseway,BeyondTrust,Pulseway
+Paessler PRTG Network Monitor,Pulseway,Pulseway,Auvik,ConnectWise ScreenConnect,Continuum (now part of ConnectWise)
+LogicMonitor,ManageEngine Desktop Central,GoTo Resolve (formerly LogMeIn),Hexnode UEM,,LabTech (now ConnectWise Automate)
+ITarian (formerly Comodo One),LogMeIn Central,ManageEngine Endpoint Central,Syncro,,Level Platforms
+Domotz,GoToMyPC,ITarian,Naverisk,,Comodo One
+RMM by SuperOps.ai,VNC Connect,SuperOps,Splashtop,,SimpleHelp
+RMM by GoTo Resolve (formerly GoToAssist),Datto RMM,MeshCentral,AnyViewer,,Splashtop Business Access
+Avast Business CloudCare,Continuum RMM,NetSupport Manager,ConnectWise Automate,,LogMeIn Central
+Continuum (now part of ConnectWise),N-able N-central,Remcos,Kaseya VSA,,GoToResolve (formerly GoToAssist)
+IBM BigFix,RemotePC,Imminent Monitor,SuperOps,,BeyondTrust Remote Support
+Microsoft Intune,,,N-able,,Bomgar (now BeyondTrust)
+Cisco Meraki,,,ManageEngine,,ScreenConnect (now ConnectWise Control)
+TeamViewer Remote Management,,,,,Panorama9
+OpenRMM,,,,,Syxsense
+Falcon by CrowdStrike (with RMM capabilities),,,,,Automox
+,,,,,Tanium
+,,,,,CrowdStrike Falcon
+,,,,,SentinelOne
+,,,,,Carbon Black (VMware)
+,,,,,Rapid7 InsightVM
+,,,,,Qualys VMDR
+,,,,,Lansweeper
+,,,,,PRTG Network Monitor
+,,,,,Nagios
+,,,,,Zabbix
+,,,,,Datadog Infrastructure Monitoring
+,,,,,New Relic Infrastructure
+,,,,,Dynatrace
+,,,,,Splunk Infrastructure Monitoring
+,,,,,Elastic Observability
